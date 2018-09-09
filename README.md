@@ -2,7 +2,7 @@
 
 A method to reconstruct, complete and semantically label a 3D scene from a single input depth image
 
-authors = **Yida Wang, David Tan, Nassir Navab and Federico Tombari**
+Authors:  **[Yida Wang](https://wangyida.github.io/#about), David Tan, Nassir Navab and [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari)**
 
 *International Conference on 3D Vision*, IEEE
 
