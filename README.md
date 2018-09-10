@@ -1,3 +1,5 @@
+![poster](3dv/3dv-poster.png)
+
 # Adversarial Semantic Scene Completion from a Single Depth Image
 
 ## Authors
@@ -6,8 +8,4 @@
 *International Conference on 3D Vision*, IEEE
 
 ## Showcase
- <img src="3dv/video.gif" alt="road condition" width="400" frameborder="0" style="border:0" >
-
-## Poster
-
-![poster](3dv/3dv-poster.png)
+ <img src="3dv/video.gif" alt="road condition" frameborder="0" style="border:0" >
