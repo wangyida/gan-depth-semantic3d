@@ -18,3 +18,6 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/wangyida/gan-depth-semantic3d/blob/master/3dv/3dv-poster.pdf" width="500">
