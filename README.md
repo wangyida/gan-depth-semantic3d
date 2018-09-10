@@ -1,24 +1,15 @@
 # Adversarial Semantic Scene Completion from a Single Depth Image
 
-A method to reconstruct, complete and semantically label a 3D scene from a single input depth image
-
-Authors:  **[Yida Wang](https://wangyida.github.io/#about), David Tan, Nassir Navab and [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari)**
+## Authors
+**[Yida Wang](https://wangyida.github.io/#about), David Tan, Nassir Navab and [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari)**
 
 *International Conference on 3D Vision*, IEEE
 
+## Showcase
 <video autoplay="autoplay" loop="loop">
 	<source src="3dv/3dv_presentation.mp4" type="video/mp4" />
 </video>
 
-Our target | Animations
-:----:|:----:
-<img src="3dv/teaser.png" alt="road condition" width="300" frameborder="0" style="border:0" > | <img src="3dv/video.gif" alt="road condition" width="300" frameborder="0" style="border:0" >
+## Poster
 
-## Architecture
-
-![architecture](3dv/architecture.png)
-![discriminators](3dv/discriminators.png)
-
-## Qualitative results
-
-![qualitative](3dv/qualitative.png)
+![poster](3dv/3dv-poster.pdf)
