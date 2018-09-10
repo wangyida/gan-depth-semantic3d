@@ -6,10 +6,7 @@
 *International Conference on 3D Vision*, IEEE
 
 ## Showcase
-<video autoplay="autoplay" loop="loop">
-	<source src="3dv/3dv_presentation.mp4" type="video/mp4" />
-</video>
 
 ## Poster
 
-![poster](3dv/1.svg)
+![poster](3dv/3dv-poster.svg)
